@@ -1,0 +1,69 @@
+NV2311,Nguyen Minh,Chuc,0
+NV0995,Le Thi,Cuoc,0
+NV4908,Vdbsf,Cvxb,1
+NV3843,Dfggdff,Dfh,1
+NV5492,Dsgdfg,Dfsgdf,1
+NV9066,Dfhfghfgh,Dgd,1
+NV0025,Dhfgj,Dghg,0
+NV1731,Fgfdg,Dgs,1
+NV3439,Fdgh,Dhfgd,1
+NV9407,Fgbdhfg,Dhgfdh,0
+NV0483,Nguyen Minh,Doan,1
+NV0698,,Dssdf,0
+NV3828,Dfsaf,Dsv,0
+NV2346,Tran Anh,Duc,1
+NV7317,Vbfcb,Fcbcv,0
+NV0195,,Fdgfs,1
+NV5259,Sdfsdf,Fdggd,0
+NV0315,,Fdgsfg,1
+NV5604,Chdfh,Fdhdf,0
+NV9841,Dfgdfgffg,Fdsdf,0
+NV6839,Cbxfch,Fdsfg,1
+NV0290,,Fg,0
+NV9412,,Fghfg,0
+NV2021,Dthtfh,Fghfgh,0
+NV3563,Xcbcv,Fhdfh,0
+NV9779,G,Gchf,0
+NV6840,Fgdshfgh,Gfdhh,1
+NV1853,,Gjfgcj,0
+NV3629,Nguyen Thi Thuy,Hang,0
+NV7871,Gjhj,Hjj,1
+NV9231,Doan Viet,Hung,1
+NV0178,Ghj,Jk,0
+NV0345,Ghj,Kku,0
+NV9997,Tran Thi My,Le,0
+NV7942,,Linh,0
+NV0848,Nguyen Thi Khanh,Linh,0
+NV8552,Pham Van,Minh,1
+NV4492,Trinh Thi My,My,0
+NV3495,Truong Thi Kieu,My,0
+NV0201,Nguyen Thi Khanh,Ngan,0
+NV1401,Huynh Nguyen Thi Nhung,Nguy,0
+NV6074,Ghj,Nhjk,0
+NV4570,Nguyen Thi,Phong,0
+NV7471,Nguyen Xuan,Phuc,1
+NV1057,To Thi Nhu,Quynh,0
+NV0710,Dfsg,Sdg,1
+NV7121,Ffff,Sdg,0
+NV9378,Ffffg,Sdg,0
+NV7739,Dfg,Sfsddg,0
+NV8966,,Sgdfg,1
+NV1232,Trinh Thi Thu,Suong,0
+NV7340,Le Nguyen Duc,Tan,1
+NV6433,Nguyen Thi Mai,Thi,0
+NV2620,,Thong,0
+NV3700,,Thong,0
+NV9975,Luu Nguyen Ky,Thu,0
+NV5432,Ton Thi Anh,Thu,0
+NV6883,Nguyen Van,Toan,1
+NV3938,,Tu,0
+NV2544,Nguyen Duc,Tu,1
+NV1718,,Tyutyu,0
+NV8426,Yiyi,Uiy,0
+NV2192,Tran Dinh,Van,1
+NV5753,,Vcxb,0
+NV6016,Ta Quoc,Viet,1
+NV6659,Vbvcb,Vxbvb,1
+NV2529,Nguyen Thi Nhu,Y,0
+NV2016,Tran Thi Nha,Yen,0
+NV3301,Ghjgh,Yu,1
